@@ -15,8 +15,12 @@
 
 2. The Python assignment is completed and added to the following file:
    https://github.com/PriyaGDE/python_training/blob/main/python_assignment.ipynb
-   
-3. Github lessons are followed, and changes are often committed. The Visual Studio editor is also used to track Git commits and for creating and executing .py files.  
-  https://github.com/PriyaGDE/python_training/commits/main/
+
+   <img width="1024" alt="image" src="https://github.com/user-attachments/assets/64d7d7a0-66bc-47a9-8330-7539db60bf45" />
+
 
 ![image](https://github.com/user-attachments/assets/c175f798-15d8-49e2-b7cc-48600da04416)
+   
+4. Github lessons are followed, and changes are often committed. The Visual Studio editor is also used to track Git commits and for creating and executing .py files.  
+  https://github.com/PriyaGDE/python_training/commits/main/
+
